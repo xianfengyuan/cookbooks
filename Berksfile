@@ -1,6 +1,6 @@
 branch = 'master'
 
-sheer_git_url = 'git@github.com:/xianfeng'
+sheer_git_url = 'git@github.com:/xianfengyuan'
 
 sheer_cookbooks = %w(runit)
 
