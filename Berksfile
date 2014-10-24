@@ -4,7 +4,7 @@ branch = 'master'
 
 sheer_git_url = 'git@github.com:/xianfengyuan'
 
-sheer_cookbooks = %w(runit)
+sheer_cookbooks = %w(runit sheer-deploy)
 
 # Include Opsworks Cookbooks
 opsworks_cb_path = '/opt/aws/opsworks/current/cookbooks'
