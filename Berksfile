@@ -1,3 +1,5 @@
+source "https://supermarket.getchef.com"
+
 branch = 'master'
 
 sheer_git_url = 'git@github.com:/xianfengyuan'
