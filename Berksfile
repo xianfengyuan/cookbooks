@@ -1,10 +1,11 @@
-source "https://supermarket.getchef.com"
-
 branch = 'master'
 
 sheer_git_url = 'git@github.com:/xianfengyuan'
 
-sheer_cookbooks = %w(runit sheer-deploy)
+sheer_cookbooks = "
+runit 
+sheer-deploy
+".split
 
 # Include Opsworks Cookbooks
 opsworks_cb_path = '/opt/aws/opsworks/current/cookbooks'
