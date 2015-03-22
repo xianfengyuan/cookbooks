@@ -4,7 +4,7 @@ sheer_git_url = 'git@github.com:/xianfengyuan'
 
 sheer_cookbooks = "
 runit 
-sheer-deploy
+dreambuilder
 ".split
 
 # Include Opsworks Cookbooks
