@@ -5,6 +5,7 @@ sheer_git_url = 'git@github.com:/xianfengyuan'
 sheer_cookbooks = "
 runit 
 dreambuilder
+sugarcrm
 ".split
 
 # Include Opsworks Cookbooks
