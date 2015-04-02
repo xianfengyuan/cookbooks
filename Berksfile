@@ -3,17 +3,8 @@ branch = 'master'
 sheer_git_url = 'git@github.com:/xianfengyuan'
 
 sheer_cookbooks = "
-application
-yum-mysql-community
-build-essential
-xml
-mysql
-php
-openssl
-apache2
 runit 
 dreambuilder
-sugarcrm
 ".split
 
 # Include Opsworks Cookbooks
